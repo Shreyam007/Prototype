@@ -10,7 +10,7 @@ Welcome! Thank you for your interest in contributing. This guide will help you g
 2. **Clone** your fork to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/Project.git
+   git clone https://github.com/<your-username>/Prototype/Project.git
    ```
 
    _Tip: Replace `<your-username>` with your GitHub username!_
